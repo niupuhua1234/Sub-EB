@@ -4,7 +4,7 @@
 </div> -->
 --------------------------------------------------------------------------------
 # Subtrajectory Evaluation Balance (Sub-EB) for GFlowNet
-Code for the ICLR 2026 paper '[Evaluating GFlowNet from partial episodes for stable and flexible policy-based training]([https://proceedings.mlr.press/v235/niu24c.html](https://openreview.net/forum?id=kWM0etSpBG))'
+Code for the ICLR 2026 paper '[Evaluating GFlowNet from partial episodes for stable and flexible policy-based training](https://openreview.net/forum?id=kWM0etSpBG)'
 
 ## Installation
 Clone the code and set ```./Sub-EB/gfn-subeb``` as the root working directory
