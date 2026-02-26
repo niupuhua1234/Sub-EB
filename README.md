@@ -3,7 +3,7 @@
 <!-- <div align="center">
 </div> -->
 --------------------------------------------------------------------------------
-# Sub-EB
+# Evaluate GFlowNet policies by Subtrajectoru Evaluation Balance (Sub-EB) 
 Code for the ICLR 2026 paper '[Evaluating GFlowNet from partial episodes for stable and flexible policy-based training](https://proceedings.mlr.press/v235/niu24c.html)'
 
 ## Installation
