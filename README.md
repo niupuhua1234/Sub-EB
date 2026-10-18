@@ -33,3 +33,6 @@ booktitle={The Fourteenth International Conference on Learning Representations},
 year={2026},
 url={https://openreview.net/forum?id=kWM0etSpBG}
 }
+
+
+A public technical comparison concerning the relationship between Sub-EB and its subsequent work *Proximal Policy Optimization for Amortized Discrete Sampling* is available
