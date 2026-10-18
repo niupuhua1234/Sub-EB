@@ -35,4 +35,5 @@ url={https://openreview.net/forum?id=kWM0etSpBG}
 }
 ```
 
+## Technical chronology and originality/attribution concern
 A public technical comparison concerning the relationship between *Subtrajectory Evaluation Balance* and its subsequent work *Proximal Policy Optimization for Amortized Discrete Sampling* is available [link](https://openreview.net/forum?id=k2lkeCCfRK&noteId=R9ob5DJqcf)
